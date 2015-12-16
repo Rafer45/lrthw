@@ -1,17 +1,12 @@
 print "Give me a number: "
-number = gets.chomp.to_i
+number = gets.chomp.to_i             # Gets numeric input
 
-bigger = number * 100
-puts "A bigger number is #{bigger}."
+bigger = number * 100                # Calculates a bigger number...
+puts "A bigger number is #{bigger}." # ...then returns it.
 
 print "Give me another number: "
-another = gets.chomp
-number = another.to_i
+another = gets.chomp                 # Gets another numeric input
+number = another.to_i                # Stores it in the same var as before
 
-smaller = number / 100
-puts "A smaller number is #{smaller}."
-
-print "Give me money: "
-money = gets.chomp.to_f
-change = money * 0.10
-puts "Here's your change, #{change}."
+smaller = number / 100               # Calculates a smaller number,
+puts "A smaller number is #{smaller}." # Then returns it.
