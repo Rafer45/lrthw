@@ -1,0 +1,1 @@
+If you are reading this, ex17.rb has not been run, or it did not work. 
