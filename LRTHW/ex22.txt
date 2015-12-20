@@ -1,0 +1,19 @@
++      - Adds values.
+-      - Substracts values.
+*      - Multiplies values.
+/      - Divides values.
+%      - Modulo operation.
+
+""     - Encases a string.
+()     - Encases math calculations or function arguments.
+[]     - Encases arrays (maybe).
+
+!      - Redefines a variable with the return value of a method.
+.      - Appends methods. Can be linked together.
+
+def    - Begins defining a function.
+end    - Ends a block of code.
+
+print  - Prints something to console.
+puts   - Prints something to console with \n at the end.
+return - Returns a value when the function is run.
