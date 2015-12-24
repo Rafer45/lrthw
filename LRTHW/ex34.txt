@@ -1,0 +1,25 @@
+animals = ['bear', 'ruby', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+The animal at 1 is the 2nd animal, a ruby.
+The 2nd animal is the animal at 1, a ruby.
+
+The animal at 2 is the 3rd animal, a peacock.
+The 3rd animal is the animal at 2, a peacock.
+
+The animal at 0 is the 1st animal, a bear.
+The 1st animal is the animal at 0, a bear.
+
+The animal at 3 is the 4th animal, a kangaroo.
+The 4th animal is the animal at 3, a kangaroo.
+
+The animal at 4 is the 5th animal, a whale.
+The 5th animal is the animal at 4, a whale.
+
+The animal at 2 is the 3rd animal, a peacock.
+The 3rd animal is the animal at 2, a peacock.
+
+The animal at 5 is the 6th animal, a platypus.
+The 6th animal is the animal at 5, a platypus.
+
+The animal at 4 is the 5th animal, a whale.
+The 5th animal is the animal at 4, a whale.
